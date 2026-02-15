@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Cloud+Infrastructure+%7C+DevOps+%7C+Agentic+AI;Building+Scalable+Systems+with+Autonomous+Intelligence)](https://git.io/typing-svg)
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Cloud+Infrastructure+%7C+DevOps+%7C+Agentic+AI;Building+Scalable+Systems+%F0%9F%9A%80;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD+Automation;Pioneering+AI-Driven+Infrastructure+Ops)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=doctor500&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/doctor500)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lay/)
@@ -14,13 +14,13 @@
 
 ## 👨‍💻 About Me
 
-Infrastructure & Platform Engineer based in **Tokyo, Japan** 🗼 with nearly a decade of experience building scalable cloud systems across government, fintech, and enterprise.
+Infrastructure &amp; Platform Engineer based in **Tokyo, Japan** 🗼 with nearly a decade of experience building scalable cloud systems across government, fintech, and enterprise.
 
 - 🏢 Currently at **Rakuten** — pioneering Agentic AI for CI/CD platform operations
 - 🤖 Building **Claude Code plugins**, **AI Agent contexts**, and autonomous analytical tooling
 - ☁️ Delivered **90%+ cost reductions** and **$150K monthly savings** through cloud refactoring
 - 🏗️ Infrastructure veteran across **GCP**, **AWS**, **Kubernetes**, and **Terraform**
-- ✍️ Writing about DevOps & Cloud on [Medium](https://medium.com/@davidlayardi) (6,400+ readers)
+- ✍️ Writing about DevOps &amp; Cloud on [Medium](https://medium.com/@davidlayardi) (6,400+ readers)
 
 ---
 
@@ -31,13 +31,13 @@ Infrastructure & Platform Engineer based in **Tokyo, Japan** 🗼 with nearly a 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**Container & Orchestration**
+**Container &amp; Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-**CI/CD & Automation**
+**CI/CD &amp; Automation**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -48,19 +48,19 @@ Infrastructure & Platform Engineer based in **Tokyo, Japan** 🗼 with nearly a 
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-**AI & Agentic Tools**
+**AI &amp; Agentic Tools**
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-5A45FF?style=for-the-badge&logo=ai&logoColor=white)
 
-**Languages & Scripting**
+**Languages &amp; Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
-**Monitoring & Observability**
+**Monitoring &amp; Observability**
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
