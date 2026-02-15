@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Cloud+%E2%80%A2+DevOps+%E2%80%A2+Agentic+AI;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;AI-Driven+Infrastructure+Ops+%F0%9F%9A%80;Based+in+Tokyo%2C+Japan+%F0%9F%97%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Cloud+%E2%80%A2+DevOps+%E2%80%A2+Agentic+AI;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;AI-Driven+Infrastructure+Ops+%F0%9F%9A%80;Building+the+Future+of+DevOps+%F0%9F%94%AE)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=doctor500&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/doctor500)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lay/)
@@ -14,12 +14,13 @@
 
 ## 👨‍💻 About Me
 
-Infrastructure &amp; Platform Engineer based in **Tokyo, Japan** 🗼 with nearly a decade of experience building scalable cloud systems across government, fintech, and enterprise.
+Infrastructure &amp; Platform Engineer with nearly a decade of experience building scalable cloud systems across government, fintech, and enterprise.
 
-- 🏢 Currently at **Rakuten** — pioneering Agentic AI for CI/CD platform operations
-- 🤖 Building **Claude Code plugins**, **AI Agent contexts**, and autonomous analytical tooling
-- ☁️ Delivered **90%+ cost reductions** and **$150K monthly savings** through cloud refactoring
-- 🏗️ Infrastructure veteran across **GCP**, **AWS**, **Kubernetes**, and **Terraform**
+- 🤖 Passionate about **Agentic AI** — building autonomous CI/CD operations, **Claude Code plugins**, and **AI Agent contexts**
+- ☁️ Deep expertise in **cloud-native architecture** across **GCP** and **AWS** — delivered **90%+ cost reductions** and **$150K monthly savings**
+- ⎈ **Kubernetes-first** mindset — from bare-metal clusters to managed GKE/EKS at scale
+- 🔧 Obsessed with **developer experience** — building shared pipelines, internal platforms, and self-service tooling
+- 🏗️ Infrastructure as Code advocate — **Terraform**, **Helm**, and GitOps with **ArgoCD**
 - ✍️ Writing about DevOps &amp; Cloud on [Medium](https://medium.com/@davidlayardi) (6,400+ readers)
 
 ---
