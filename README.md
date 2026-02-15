@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Cloud+Infrastructure+%7C+DevOps+%7C+Agentic+AI;Building+Scalable+Systems+%F0%9F%9A%80;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD+Automation;Pioneering+AI-Driven+Infrastructure+Ops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Cloud+%E2%80%A2+DevOps+%E2%80%A2+Agentic+AI;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;AI-Driven+Infrastructure+Ops+%F0%9F%9A%80;Based+in+Tokyo%2C+Japan+%F0%9F%97%BC)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=doctor500&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/doctor500)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lay/)
