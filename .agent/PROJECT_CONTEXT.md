@@ -24,7 +24,8 @@ doctor500/
 │   └── README.md             # Agent directory overview
 ├── .github/
 │   └── workflows/
-│       └── snake.yml         # Daily contribution snake SVG generator
+│       ├── snake.yml         # Daily contribution snake SVG generator
+│       └── metrics.yml       # Daily GitHub stats & languages SVG generator
 └── README.md                 # Profile README (main content)
 ```
 
@@ -32,15 +33,15 @@ doctor500/
 
 The `README.md` contains these sections in order:
 
-| # | Section | Description | External Dependencies |
-|---|---------|-------------|-----------------------|
+| # | Section | Description | Source |
+|---|---------|-------------|--------|
 | 1 | **Hero (Typing SVG)** | Animated cycling text | `readme-typing-svg.demolab.com` |
 | 2 | **Social Badges** | Profile Views, LinkedIn, Medium, Website, Email | `komarev.com`, `shields.io` |
-| 3 | **About Me** | Short bio with emoji bullets | None (static markdown) |
+| 3 | **About Me** | Short bio with emoji bullets | Static markdown |
 | 4 | **Tech Stack** | Shields.io badges grouped by 7 categories | `shields.io` |
-| 5 | **GitHub Stats** | Stats card, Top Languages, Streak | `github-readme-stats.vercel.app`, `github-readme-streak-stats.herokuapp.com` |
-| 6 | **Featured Projects** | 4 pinned repo cards | `github-readme-stats.vercel.app` |
-| 7 | **Contribution Snake** | Animated SVG snake eating contribution graph | Self-hosted via GitHub Action (`output` branch) |
+| 5 | **GitHub Stats** | Stats card, Languages card, Streak | Self-hosted via GitHub Actions (`output` branch) + `github-readme-streak-stats.herokuapp.com` |
+| 6 | **Featured Projects** | 4 project table with descriptions | Static markdown |
+| 7 | **Contribution Snake** | Animated SVG snake eating contribution graph | Self-hosted via GitHub Actions (`output` branch) |
 | 8 | **Let's Connect** | CTA with LinkedIn badge | `shields.io` |
 
 ## External Services & Dependencies
@@ -61,12 +62,13 @@ The `README.md` contains these sections in order:
 - **Icons:** [Simple Icons](https://simpleicons.org)
 - **Used for:** Social links, tech stack, CTA button
 
-### GitHub Readme Stats
-- **Service:** [github-readme-stats.vercel.app](https://github.com/anuraghazra/github-readme-stats)
-- **Theme:** `tokyonight` with custom colors
-- **Cards used:** Stats, Top Languages, Repo Pins
-- **Custom colors:** `bg_color=0D1117`, `title_color=70A5FD`, `icon_color=70A5FD`, `text_color=FFFFFF`
-- **⚠️ Rate limits:** Vercel-hosted — may show broken images during high traffic. Self-hosting is the permanent fix.
+### GitHub Stats & Languages (Self-Hosted)
+- **GitHub Action:** `.github/workflows/metrics.yml`
+- **Uses:** `lowlighter/metrics@latest`
+- **Schedule:** Daily at 00:00 UTC + on push to master
+- **Outputs:** `github-stats.svg`, `github-languages.svg` → pushed to `output` branch
+- **Referenced as:** `https://raw.githubusercontent.com/doctor500/doctor500/output/github-stats.svg`
+- **⚠️ Requires:** `METRICS_TOKEN` secret (GitHub PAT with `public_repo` scope)
 
 ### GitHub Streak Stats
 - **Service:** [github-readme-streak-stats.herokuapp.com](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -95,7 +97,7 @@ The `README.md` contains these sections in order:
 | Fire/streak | `#FF6B6B` | Streak fire accent |
 | Font | Fira Code | Typing SVG header |
 | Badge style | `for-the-badge` | All shields.io badges |
-| Stats theme | `tokyonight` | All github-readme-stats cards |
+| Stats theme | `tokyonight` | Streak card |
 
 ## Tech Stack Categories
 
@@ -111,12 +113,12 @@ Badges are organized into these groups (update `README.md` when skills change):
 
 ## Featured Repositories
 
-Currently pinned repos (update when new showcase repos are available):
+Currently listed repos (update when new showcase repos are available):
 
 | Repo | Description |
 |------|-------------|
-| `cv` | Markdown CV → PDF pipeline with GitHub Actions |
-| `landing-page` | Static landing page with AI-ready integration |
+| `cv` | Markdown → PDF pipeline with GitHub Actions |
+| `landing-page` | Personal landing page with glassmorphism design |
 | `ubuntu-ai` | AI-assisted Ubuntu VM management |
 | `publication-blog` | Static blog powered by Outstatic CMS |
 
@@ -125,7 +127,7 @@ Currently pinned repos (update when new showcase repos are available):
 ### When to update README.md:
 - New job role or company change → Update About Me section
 - New skills acquired → Add badges to Tech Stack
-- New notable project → Add/replace in Featured Projects
+- New notable project → Add/replace in Featured Projects table
 - Profile positioning change → Update Typing SVG lines
 
 ### When to update this context:
@@ -138,11 +140,12 @@ Currently pinned repos (update when new showcase repos are available):
 
 | Issue | Cause | Fix |
 |-------|-------|-----|
-| Stats cards show broken image | Vercel rate limit | Wait 1-2 hours, or self-host |
+| Stats/Languages SVG missing | `output` branch not populated | Manually trigger metrics workflow |
 | Snake SVG missing | `output` branch not created | Manually trigger snake workflow |
 | Typing SVG truncated | Text too long for width | Shorten lines or reduce `size` param |
 | Badges not rendering | shields.io outage | Check [status.shields.io](https://status.shields.io) |
 | Profile Views stuck at 0 | Counter initializing | Views increment on unique visits |
+| Metrics workflow fails | Missing `METRICS_TOKEN` secret | Add GitHub PAT with `public_repo` scope |
 
 ---
 

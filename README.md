@@ -73,8 +73,9 @@ Infrastructure &amp; Platform Engineer based in **Tokyo, Japan** 🗼 with nearl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doctor500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctor500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF" alt="Top Languages" height="170" />
+![GitHub Stats](https://raw.githubusercontent.com/doctor500/doctor500/output/github-stats.svg)
+
+![Languages](https://raw.githubusercontent.com/doctor500/doctor500/output/github-languages.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=doctor500&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)](https://git.io/streak-stats)
 
@@ -84,14 +85,12 @@ Infrastructure &amp; Platform Engineer based in **Tokyo, Japan** 🗼 with nearl
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![CV](https://github-readme-stats.vercel.app/api/pin/?username=doctor500&repo=cv&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF)](https://github.com/doctor500/cv)
-[![Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=doctor500&repo=landing-page&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF)](https://github.com/doctor500/landing-page)
-[![Ubuntu AI](https://github-readme-stats.vercel.app/api/pin/?username=doctor500&repo=ubuntu-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF)](https://github.com/doctor500/ubuntu-ai)
-[![Publication Blog](https://github-readme-stats.vercel.app/api/pin/?username=doctor500&repo=publication-blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF)](https://github.com/doctor500/publication-blog)
-
-</div>
+| Project | Description |
+|---------|-------------|
+| [📄 **cv**](https://github.com/doctor500/cv) | Markdown → PDF pipeline with GitHub Actions — auto-deploys to GitHub Pages |
+| [🌐 **landing-page**](https://github.com/doctor500/landing-page) | Personal landing page with glassmorphism design system |
+| [🤖 **ubuntu-ai**](https://github.com/doctor500/ubuntu-ai) | AI-assisted Ubuntu VM provisioning &amp; management |
+| [✍️ **publication-blog**](https://github.com/doctor500/publication-blog) | Static blog powered by Outstatic CMS on GitHub Pages |
 
 ---
 
