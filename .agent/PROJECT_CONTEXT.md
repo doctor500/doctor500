@@ -38,7 +38,7 @@ The `README.md` contains these sections in order:
 | 1 | **Hero (Typing SVG)** | Animated cycling text | `readme-typing-svg.demolab.com` |
 | 2 | **Social Badges** | Profile Views, LinkedIn, Medium, Website, Email | `komarev.com`, `shields.io` |
 | 3 | **About Me** | Short bio with emoji bullets | Static markdown |
-| 4 | **Tech Stack** | Shields.io badges grouped by 7 categories | `shields.io` |
+| 4 | **Tech Stack** | Shields.io badges grouped by 8 categories | `shields.io` |
 | 5 | **GitHub Stats** | Stats card, Languages card, Streak | Self-hosted via GitHub Actions (`output` branch) + `github-readme-streak-stats.herokuapp.com` |
 | 6 | **Featured Projects** | 4 project table with descriptions | Static markdown |
 | 7 | **Contribution Snake** | Animated SVG snake eating contribution graph | Self-hosted via GitHub Actions (`output` branch) |
@@ -52,8 +52,8 @@ The `README.md` contains these sections in order:
 - **Lines (URL-encoded):**
   - `Cloud • DevOps • Agentic AI`
   - `Kubernetes • Terraform • CI/CD`
+  - `Site Reliability • Platform Engineering`
   - `AI-Driven Infrastructure Ops 🚀`
-  - `Based in Tokyo, Japan 🗼`
 - **⚠️ Width constraint:** GitHub's README container is ~680px. Keep all lines under ~30 characters at size=24 to avoid truncation.
 
 ### Shields.io Badges
@@ -61,6 +61,11 @@ The `README.md` contains these sections in order:
 - **Style:** `for-the-badge`
 - **Icons:** [Simple Icons](https://simpleicons.org)
 - **Used for:** Social links, tech stack, CTA button
+- **⚠️ Two badges are intentionally text-only:** `AWS` and `Teleport`. Simple Icons has no
+  entry for either (Amazon had its marks removed from the set), so a `&logo=` parameter is
+  silently ignored and the badge renders as plain text. Don't add one back — verify any new
+  logo slug actually renders before committing it. A missed slug shows no broken image, just
+  a badge with the icon quietly missing.
 
 ### GitHub Stats & Languages (Self-Hosted)
 - **GitHub Action:** `.github/workflows/metrics.yml`
@@ -104,12 +109,13 @@ The `README.md` contains these sections in order:
 Badges are organized into these groups (update `README.md` when skills change):
 
 1. **Cloud Platforms** — AWS, GCP
-2. **Container & Orchestration** — Docker, Kubernetes, Helm
+2. **Container & Orchestration** — Docker, Kubernetes, Helm, Kustomize, Harbor, JFrog Artifactory
 3. **CI/CD & Automation** — Jenkins, GitHub Actions, ArgoCD, GitLab CI
 4. **Infrastructure as Code** — Terraform
 5. **AI & Agentic Tools** — Claude Code, MCP Protocol
 6. **Languages & Scripting** — Python, Go, Bash, Groovy
-7. **Monitoring & Observability** — Datadog, Prometheus, Grafana, New Relic
+7. **Networking & Security** — Nginx, OpenVPN, Teleport, Cloudflare
+8. **Monitoring & Observability** — Datadog, Prometheus, Grafana, New Relic
 
 ## Featured Repositories
 

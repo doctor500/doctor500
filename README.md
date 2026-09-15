@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Cloud+%E2%80%A2+DevOps+%E2%80%A2+Agentic+AI;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;AI-Driven+Infrastructure+Ops+%F0%9F%9A%80;Building+the+Future+of+DevOps+%F0%9F%94%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Cloud+%E2%80%A2+DevOps+%E2%80%A2+Agentic+AI;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Site+Reliability+%E2%80%A2+Platform+Engineering;AI-Driven+Infrastructure+Ops+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=doctor500&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/doctor500)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lay/)
@@ -14,14 +14,14 @@
 
 ## 👨‍💻 About Me
 
-Infrastructure &amp; Platform Engineer with nearly a decade of experience building scalable cloud systems across government, fintech, and enterprise.
+Infrastructure &amp; Platform Engineer with nearly a decade of experience building scalable, reliable cloud systems across government, fintech, and enterprise.
 
-- 🤖 Passionate about **Agentic AI** — building autonomous CI/CD operations, **Claude Code plugins**, and **AI Agent contexts**
-- ☁️ Deep expertise in **cloud-native architecture** across **GCP** and **AWS** — delivered **90%+ cost reductions** and **$150K monthly savings**
-- ⎈ **Kubernetes-first** mindset — from bare-metal clusters to managed GKE/EKS at scale
-- 🔧 Obsessed with **developer experience** — building shared pipelines, internal platforms, and self-service tooling
-- 🏗️ Infrastructure as Code advocate — **Terraform**, **Helm**, and GitOps with **ArgoCD**
-- ✍️ Writing about DevOps &amp; Cloud on [Medium](https://medium.com/@davidlayardi) (6,400+ readers)
+- 🤖 Building **Agentic AI for infrastructure operations** — **Claude Code plugins**, **AI agent contexts**, and autonomous analytical tooling. Cut incident investigation from **24h to under 2h** and document creation by **80%**.
+- ☁️ Cloud-native across **GCP** and **AWS** — delivered **90%+ cost reductions** and **$150K monthly savings**.
+- ⎈ **Kubernetes-first** mindset — from bare-metal clusters to managed GKE/EKS at scale.
+- 🔭 **Site Reliability &amp; Platform Engineering** — resilient production systems, shared pipelines, and self-service tooling.
+- 🏗️ Infrastructure as Code advocate — **Terraform**, **Helm**, and GitOps with **ArgoCD**.
+- ✍️ Writing about DevOps &amp; Cloud on [Medium](https://medium.com/@davidlayardi) (6,400+ readers).
 
 ---
 
@@ -29,7 +29,7 @@ Infrastructure &amp; Platform Engineer with nearly a decade of experience buildi
 
 **Cloud Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Container &amp; Orchestration**
@@ -37,6 +37,9 @@ Infrastructure &amp; Platform Engineer with nearly a decade of experience buildi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
+![JFrog Artifactory](https://img.shields.io/badge/JFrog_Artifactory-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
 
 **CI/CD &amp; Automation**
 
@@ -52,7 +55,7 @@ Infrastructure &amp; Platform Engineer with nearly a decade of experience buildi
 **AI &amp; Agentic Tools**
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-5A45FF?style=for-the-badge&logo=ai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-5A45FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 **Languages &amp; Scripting**
 
@@ -60,6 +63,13 @@ Infrastructure &amp; Platform Engineer with nearly a decade of experience buildi
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+
+**Networking &amp; Security**
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![Teleport](https://img.shields.io/badge/Teleport-512FC9?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Monitoring &amp; Observability**
 
@@ -109,7 +119,7 @@ Infrastructure &amp; Platform Engineer with nearly a decade of experience buildi
 
 ### 💬 Let's Connect
 
-Whether it's about **cloud architecture**, **Kubernetes**, **Agentic AI**, or **DevOps** — I'm always happy to chat.
+Whether it's about **cloud architecture**, **Kubernetes**, **site reliability**, **Agentic AI**, or **DevOps** — I'm always happy to chat.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lay/)
 
